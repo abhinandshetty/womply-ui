@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test suite Button renders as expected 1`] = `
+<button
+  data-testid="btn"
+>
+  Custom Button
+</button>
+`;
